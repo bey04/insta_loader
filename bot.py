@@ -4,7 +4,7 @@ import instaloader
 import os
 
 # Bot tokenini BotFather'dan olingan token bilan almashtiring
-TOKEN = '6816242544:AAGb5Kx_n6NaFckomlFEXbCPr8-nbsGuv8k'
+TOKEN = 'your_bot_token_here'
 
 # Instagram yuklovchi ob'ektni yaratish
 loader = instaloader.Instaloader()
